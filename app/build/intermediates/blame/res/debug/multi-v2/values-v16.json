@@ -1,0 +1,57 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\x\\EnglishAnywhere-master\\EnglishAnywhere-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\wtbro\\.gradle\\caches\\transforms-1\\files-1.1\\account-kit-sdk-4.35.0.aar\\b7a73b2c16463d39d4a4fdf30f839d56\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2,5,8,11,14",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,215,358,510,652",
+                        "endLines": "4,7,10,13,16",
+                        "endColumns": "12,12,12,12,12",
+                        "endOffsets": "210,353,505,647,795"
+                    },
+                    "to": {
+                        "startLines": "3,6,9,12,15",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "121,281,424,576,718",
+                        "endLines": "5,8,11,14,17",
+                        "endColumns": "12,12,12,12,12",
+                        "endOffsets": "276,419,571,713,861"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\wtbro\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0-rc01.aar\\0ac244eb666eb4bec291a01bafdf7807\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\wtbro\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-rc01.aar\\3ea705d5e4b204b9c61f59e8aefe7cd9\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "18",
+                        "startColumns": "4",
+                        "startOffsets": "866",
+                        "endLines": "21",
+                        "endColumns": "12",
+                        "endOffsets": "1034"
+                    }
+                }
+            ]
+        }
+    ]
+}

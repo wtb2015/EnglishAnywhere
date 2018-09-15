@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">English-Anywhere</string>
+    <string name="FACEBOOK_APP_ID">304814620070521</string>
+    <string name="ACCOUNT_KIT_CLIENT_TOKEN">9fff22374d6b05760b7199dbdf136511</string>
+    <string name="ak_login_protocol_scheme">ak304814620070521</string>
+    <string name="fb_login_protocol_scheme">fb304814620070521</string>
+    <string name="login_label">Email or Phone Number</string>
+    <string name="accountkit_button_label">Continue</string>
+    <string name="account">Account</string>
+    <string name="id_label">Account ID</string>
+    <string name="phone_label">Phone Number</string>
+    <string name="location_label">Location</string>
+    <string name="email_label">Email</string>
+    <string name="name_label">Name</string>
+    <string name="logout_label">Log Out</string>
+    <string name="search_label">Which level is yours ?</string>
+    <string name="visited_today">visited today</string>
+    <string name="friends">Find Friends</string>
+    <string name="follow">Follow</string>
+    <string name="unfollow">Unfollow</string>
+    <string name="no_friends">No friends found</string>
+    <string name="location_permission_message">English-Anywhere would like to access your user location to find English Learning Partners.</string>
+    <string name="permission_message">English-Anywhere would like your permission to access your Facebook friend list to Find English Learning Partners.</string>
+</resources>

@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\x\\EnglishAnywhere-master\\EnglishAnywhere-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw321dp-v13\\values-sw321dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\wtbro\\.gradle\\caches\\transforms-1\\files-1.1\\account-kit-sdk-4.35.0.aar\\b7a73b2c16463d39d4a4fdf30f839d56\\res\\values-sw321dp-v13\\values-sw321dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,118",
+                        "endColumns": "62,74",
+                        "endOffsets": "113,188"
+                    }
+                }
+            ]
+        }
+    ]
+}

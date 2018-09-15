@@ -1,0 +1,4 @@
+#Wed Sep 12 11:15:03 CEST 2018
+base.0=C\:\\x\\EnglishAnywhere-master\\EnglishAnywhere-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
